@@ -1,0 +1,410 @@
+
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://foxland.fi/demo/some/xmlrpc.php">
+
+<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>Blog &#8211; Sa(o)mi Keijonen</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Sa(o)mi Keijonen &raquo; Feed" href="https://foxland.fi/demo/some/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Sa(o)mi Keijonen &raquo; Comments Feed" href="https://foxland.fi/demo/some/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/foxland.fi\/demo\/some\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.1"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='some-fonts-css'  href='https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C600%2C700%2C400italic%2C600italic%2C700italic%7COxygen%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='some-style-css'  href='style.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='https://foxland.fi/demo/some/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://foxland.fi/demo/some/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://foxland.fi/demo/some/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 4.7.1" />
+
+<style type="text/css" id="custom-header-css">.site-title, .site-title a, .site-description, .site-description a { color: #ffffff }.site-title a { border-color: #ffffff }</style>
+</head>
+
+<body class="blog hfeed footer-widgets-1">
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header" role="banner">
+
+
+
+	<nav id="site-navigation" class="main-navigation" role="navigation" aria-label="Primary Menu">
+		<button id="menu-toggle" class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">Menu</button>
+			<div class="primary-menu-wrapper"><ul id="primary-menu" class="primary-menu"><li id="menu-item-100" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-100"><a href="https://foxland.fi/demo/some/">Home</a></li>
+<li id="menu-item-152" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-150 current_page_item current_page_parent menu-item-152"><a href="https://foxland.fi/demo/some/blog/">Blog</a></li>
+<li id="menu-item-147" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-147"><a href="https://foxland.fi/demo/some/portfolio/">Portfolio</a></li>
+<li id="menu-item-109" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-109"><a href="https://foxland.fi/demo/some/category/music/">Music</a>
+<ul class="sub-menu">
+	<li id="menu-item-131" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-131"><a href="https://foxland.fi/demo/some/category/words/">Words</a></li>
+	<li id="menu-item-132" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-132"><a href="https://foxland.fi/demo/some/category/food/">Food</a></li>
+	<li id="menu-item-133" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-133"><a href="https://foxland.fi/demo/some/category/sport/">Sport</a></li>
+</ul>
+</li>
+<li id="menu-item-106" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-106"><a href="https://foxland.fi/demo/some/still-loving-you/">Still loving you</a></li>
+<li id="menu-item-101" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-101"><a href="https://foxland.fi/demo/some/404/">404 page</a></li>
+</ul></div>	</nav><!-- #site-navigation -->
+
+
+		<div class="site-branding">
+			<div class="wrapper grid-wrapper">
+
+				<div class="site-title-description">
+
+
+											<p class="site-title"><a href="https://foxland.fi/demo/some/" rel="home">Sa(o)mi Keijonen</a></p>
+											<p class="site-description">Proof of concept how to handle SVG social menu</p>
+					</div><!-- .site-title-description -->
+
+	<nav class="menu-social social-navigation menu" role="navigation" aria-label="Social Menu">
+
+		<div class="social-menu-wrapper"><ul id="menu-social-items" class="menu-social-items"><li id="menu-item-4" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4"><a href="https://github.com/samikeijonen/some/"><span class="screen-reader-text">Github</span><svg class="icon icon-github" aria-hidden="true" role="img"> <use href="assets/images/svg-icons.svg#icon-github" xlink:href="assets/images/svg-icons.svg#icon-github"></use> </svg></a></li>
+<li id="menu-item-5" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5"><a href="https://twitter.com/samikeijonen/"><span class="screen-reader-text">Twitter</span><svg class="icon icon-twitter" aria-hidden="true" role="img"> <use href="assets/images/svg-icons.svg#icon-twitter" xlink:href="assets/images/svg-icons.svg#icon-twitter"></use> </svg></a></li>
+<li id="menu-item-6" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6"><a href="https://profiles.wordpress.org/samikeijonen/"><span class="screen-reader-text">WordPress</span><svg class="icon icon-wordpress" aria-hidden="true" role="img"> <use href="assets/images/svg-icons.svg#icon-wordpress" xlink:href="assets/images/svg-icons.svg#icon-wordpress"></use> </svg></a></li>
+<li id="menu-item-7" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7"><a href="https://www.instagram.com/samikeijonen/"><span class="screen-reader-text">Instagram</span><svg class="icon icon-instagram" aria-hidden="true" role="img"> <use href="assets/images/svg-icons.svg#icon-instagram" xlink:href="assets/images/svg-icons.svg#icon-instagram"></use> </svg></a></li>
+</ul></div>	</nav><!-- .menu-social -->
+
+
+			</div><!-- .wrapper -->
+		</div><!-- .site-branding -->
+
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+						<header>
+					<h1 class="page-title screen-reader-text">Blog</h1>
+				</header>
+
+			<div class="grid-wrapper">
+<article id="post-113" class="post-113 post type-post status-publish format-standard hentry category-words tag-foxland">
+
+
+		<div class="entry-inner">
+
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://foxland.fi/demo/some/styling/" rel="bookmark">Styling</a></h2>	<div class="entry-meta">
+		<span class="posted-on">Posted on <a href="https://foxland.fi/demo/some/styling/" rel="bookmark"><time class="entry-date published" datetime="2016-04-05T14:30:08+00:00">April 5, 2016</time><time class="updated" datetime="2016-05-07T23:55:27+00:00">May 7, 2016</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://foxland.fi/demo/some/author/sami/">Sami Keijonen</a></span></span>	</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+			<div class="entry-summary">
+				<p>This page showcases basic styling of a theme. Let’s start by adding a line using hr-tag. Blockquotes Single line blockquote: Stay hungry. Stay foolish. Multi line blockquote with a cite reference: People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means&hellip; </p>
+<p><span class="icon-wrapper icon-wrapper-round"><svg class="icon icon-next" aria-hidden="true" role="img"> <use href="assets/images/svg-icons.svg#icon-next" xlink:href="assets/images/svg-icons.svg#icon-next"></use> </svg></span><a href="https://foxland.fi/demo/some/styling/" class="more-link">Read more <span class="screen-reader-text">Styling</span></a></p>
+			</div><!-- .entry-summary -->
+
+		</div><!-- .entry-inner -->
+
+
+</article><!-- #post-## -->
+
+<article id="post-43" class="post-43 post type-post status-publish format-video has-post-thumbnail hentry category-sport tag-sport post_format-post-format-video">
+
+
+		<div class="entry-inner">
+
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://foxland.fi/demo/some/sport-is-my-passion/" rel="bookmark">Sport is my passion</a></h2>	<div class="entry-meta">
+		<span class="posted-on">Posted on <a href="https://foxland.fi/demo/some/sport-is-my-passion/" rel="bookmark"><time class="entry-date published updated" datetime="2015-08-29T09:29:31+00:00">August 29, 2015</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://foxland.fi/demo/some/author/sami/">Sami Keijonen</a></span></span>	</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+			<div class="entry-summary">
+				<p>Sport is my passion there is no doubt about that. I don&#8217;t care what kind of sport you do, just try to do something. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam quis est nulla. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus eu interdum neque. Etiam ligula&hellip; </p>
+<p><span class="icon-wrapper icon-wrapper-round"><svg class="icon icon-next" aria-hidden="true" role="img"> <use href="assets/images/svg-icons.svg#icon-next" xlink:href="assets/images/svg-icons.svg#icon-next"></use> </svg></span><a href="https://foxland.fi/demo/some/sport-is-my-passion/" class="more-link">Read more <span class="screen-reader-text">Sport is my passion</span></a></p>
+			</div><!-- .entry-summary -->
+
+		</div><!-- .entry-inner -->
+
+
+</article><!-- #post-## -->
+
+<article id="post-40" class="post-40 post type-post status-publish format-standard has-post-thumbnail hentry category-music tag-music">
+
+
+		<div class="entry-inner">
+
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://foxland.fi/demo/some/still-loving-you/" rel="bookmark">Still loving you</a></h2>	<div class="entry-meta">
+		<span class="posted-on">Posted on <a href="https://foxland.fi/demo/some/still-loving-you/" rel="bookmark"><time class="entry-date published updated" datetime="2015-08-29T09:20:59+00:00">August 29, 2015</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://foxland.fi/demo/some/author/sami/">Sami Keijonen</a></span></span>	</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+			<div class="entry-summary">
+				<p>This is open letter for the one and only true love. I&#8217;m still loving you. Sometimes so much that it hurts. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam quis est nulla. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus eu interdum neque. Etiam ligula arcu, porttitor a elit nec,&hellip; </p>
+<p><span class="icon-wrapper icon-wrapper-round"><svg class="icon icon-next" aria-hidden="true" role="img"> <use href="assets/images/svg-icons.svg#icon-next" xlink:href="assets/images/svg-icons.svg#icon-next"></use> </svg></span><a href="https://foxland.fi/demo/some/still-loving-you/" class="more-link">Read more <span class="screen-reader-text">Still loving you</span></a></p>
+			</div><!-- .entry-summary -->
+
+		</div><!-- .entry-inner -->
+
+
+</article><!-- #post-## -->
+
+<article id="post-38" class="post-38 post type-post status-publish format-standard has-post-thumbnail hentry category-food tag-food">
+
+
+		<div class="entry-inner">
+
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://foxland.fi/demo/some/breakfast-time/" rel="bookmark">Breakfast time</a></h2>	<div class="entry-meta">
+		<span class="posted-on">Posted on <a href="https://foxland.fi/demo/some/breakfast-time/" rel="bookmark"><time class="entry-date published updated" datetime="2015-08-29T09:18:28+00:00">August 29, 2015</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://foxland.fi/demo/some/author/sami/">Sami Keijonen</a></span></span>	</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+			<div class="entry-summary">
+				<p>Rise and shine, it&#8217;s almost afternoon! It&#8217;s time to hit the road. But before that let&#8217;s have some breakfast. Not fast, but going to take it s-l-o-w-l-y. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam quis est nulla. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus eu interdum&hellip; </p>
+<p><span class="icon-wrapper icon-wrapper-round"><svg class="icon icon-next" aria-hidden="true" role="img"> <use href="assets/images/svg-icons.svg#icon-next" xlink:href="assets/images/svg-icons.svg#icon-next"></use> </svg></span><a href="https://foxland.fi/demo/some/breakfast-time/" class="more-link">Read more <span class="screen-reader-text">Breakfast time</span></a></p>
+			</div><!-- .entry-summary -->
+
+		</div><!-- .entry-inner -->
+
+
+</article><!-- #post-## -->
+
+<article id="post-25" class="post-25 post type-post status-publish format-chat has-post-thumbnail hentry category-words tag-chat post_format-post-format-chat">
+
+
+		<div class="entry-inner">
+
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://foxland.fi/demo/some/it-was-nice-talking-to-myself/" rel="bookmark">It was nice talking to myself</a></h2>	<div class="entry-meta">
+		<span class="posted-on">Posted on <a href="https://foxland.fi/demo/some/it-was-nice-talking-to-myself/" rel="bookmark"><time class="entry-date published updated" datetime="2015-08-29T09:08:02+00:00">August 29, 2015</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://foxland.fi/demo/some/author/sami/">Sami Keijonen</a></span></span>	</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+			<div class="entry-summary">
+				<p>Me: Why are you interviewing yourself? Myself: Because no one else will. And I like me. Me: So who are you? Myself: I&#8217;m you. Me: Seriously. Myself: I&#8217;m Sami Keijonen from Finland and I teach math at Pohjois-Tapiola high school. And some computer science. Me: So you&#8217;re not designer or programmer&#8230; Myself: Noup. But it&hellip; </p>
+<p><span class="icon-wrapper icon-wrapper-round"><svg class="icon icon-next" aria-hidden="true" role="img"> <use href="assets/images/svg-icons.svg#icon-next" xlink:href="assets/images/svg-icons.svg#icon-next"></use> </svg></span><a href="https://foxland.fi/demo/some/it-was-nice-talking-to-myself/" class="more-link">Read more <span class="screen-reader-text">It was nice talking to myself</span></a></p>
+			</div><!-- .entry-summary -->
+
+		</div><!-- .entry-inner -->
+
+
+</article><!-- #post-## -->
+
+<article id="post-23" class="post-23 post type-post status-publish format-video has-post-thumbnail hentry category-music tag-music tag-playing post_format-post-format-video">
+
+
+		<div class="entry-inner">
+
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://foxland.fi/demo/some/life-is-music-in-my-ears/" rel="bookmark">Life is music in my ears</a></h2>	<div class="entry-meta">
+		<span class="posted-on">Posted on <a href="https://foxland.fi/demo/some/life-is-music-in-my-ears/" rel="bookmark"><time class="entry-date published updated" datetime="2015-08-29T09:03:25+00:00">August 29, 2015</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://foxland.fi/demo/some/author/sami/">Sami Keijonen</a></span></span>	</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+			<div class="entry-summary">
+				<p>Music gives joy in my life more than anything else. I can&#8217;t imagine how my life would feel without music. I would be an empty shell. I go though my emotion in the same rhythm music flows. There is sadness, incredible joy, love, death. There is everything. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&hellip; </p>
+<p><span class="icon-wrapper icon-wrapper-round"><svg class="icon icon-next" aria-hidden="true" role="img"> <use href="assets/images/svg-icons.svg#icon-next" xlink:href="assets/images/svg-icons.svg#icon-next"></use> </svg></span><a href="https://foxland.fi/demo/some/life-is-music-in-my-ears/" class="more-link">Read more <span class="screen-reader-text">Life is music in my ears</span></a></p>
+			</div><!-- .entry-summary -->
+
+		</div><!-- .entry-inner -->
+
+
+</article><!-- #post-## -->
+
+<article id="post-48" class="post-48 post type-post status-publish format-quote has-post-thumbnail hentry category-music post_format-post-format-quote">
+
+
+		<div class="entry-inner">
+
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://foxland.fi/demo/some/take-you-time-but-hurry-up/" rel="bookmark">Take you time but hurry up</a></h2>	<div class="entry-meta">
+		<span class="posted-on">Posted on <a href="https://foxland.fi/demo/some/take-you-time-but-hurry-up/" rel="bookmark"><time class="entry-date published updated" datetime="2015-08-29T09:01:38+00:00">August 29, 2015</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://foxland.fi/demo/some/author/sami/">Sami Keijonen</a></span></span>	</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+			<div class="entry-summary">
+				<p>So hurry up and wait. But what&#8217;s worth waiting for? So join the queue me and you, wait in line it takes our. Time to be satisfied Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam quis est nulla. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus eu interdum neque.&hellip; </p>
+<p><span class="icon-wrapper icon-wrapper-round"><svg class="icon icon-next" aria-hidden="true" role="img"> <use href="assets/images/svg-icons.svg#icon-next" xlink:href="assets/images/svg-icons.svg#icon-next"></use> </svg></span><a href="https://foxland.fi/demo/some/take-you-time-but-hurry-up/" class="more-link">Read more <span class="screen-reader-text">Take you time but hurry up</span></a></p>
+			</div><!-- .entry-summary -->
+
+		</div><!-- .entry-inner -->
+
+
+</article><!-- #post-## -->
+
+<article id="post-104" class="post-104 post type-post status-publish format-standard has-post-thumbnail hentry category-food tag-food">
+
+
+		<div class="entry-inner">
+
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://foxland.fi/demo/some/im-hungry/" rel="bookmark">I&#8217;m hungry</a></h2>	<div class="entry-meta">
+		<span class="posted-on">Posted on <a href="https://foxland.fi/demo/some/im-hungry/" rel="bookmark"><time class="entry-date published updated" datetime="2015-08-29T08:51:40+00:00">August 29, 2015</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://foxland.fi/demo/some/author/sami/">Sami Keijonen</a></span></span>	</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+			<div class="entry-summary">
+				<p>I&#8217;m hungry. Again. There is nothing new there. As the old saying goes I could eat a horse right now. And I&#8217;m not even Kons o. deli in Oulu! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam quis est nulla. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus&hellip; </p>
+<p><span class="icon-wrapper icon-wrapper-round"><svg class="icon icon-next" aria-hidden="true" role="img"> <use href="assets/images/svg-icons.svg#icon-next" xlink:href="assets/images/svg-icons.svg#icon-next"></use> </svg></span><a href="https://foxland.fi/demo/some/im-hungry/" class="more-link">Read more <span class="screen-reader-text">I&#8217;m hungry</span></a></p>
+			</div><!-- .entry-summary -->
+
+		</div><!-- .entry-inner -->
+
+
+</article><!-- #post-## -->
+
+<article id="post-118" class="post-118 post type-post status-publish format-standard hentry category-words">
+
+
+		<div class="entry-inner">
+
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://foxland.fi/demo/some/on-my-highway/" rel="bookmark">On my highway</a></h2>	<div class="entry-meta">
+		<span class="posted-on">Posted on <a href="https://foxland.fi/demo/some/on-my-highway/" rel="bookmark"><time class="entry-date published" datetime="2015-04-05T14:49:07+00:00">April 5, 2015</time><time class="updated" datetime="2016-04-05T14:49:24+00:00">April 5, 2016</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://foxland.fi/demo/some/author/sami/">Sami Keijonen</a></span></span>	</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+			<div class="entry-summary">
+				<p>The Milky Way is the galaxy that contains our Solar System. Its name “milky” is derived from its appearance as a dim glowing band arching across the night sky in which the naked eye cannot distinguish individual stars. Galileo Galilei first resolved the band of light into individual stars with his telescope in 1610. Up&hellip; </p>
+<p><span class="icon-wrapper icon-wrapper-round"><svg class="icon icon-next" aria-hidden="true" role="img"> <use href="assets/images/svg-icons.svg#icon-next" xlink:href="assets/images/svg-icons.svg#icon-next"></use> </svg></span><a href="https://foxland.fi/demo/some/on-my-highway/" class="more-link">Read more <span class="screen-reader-text">On my highway</span></a></p>
+			</div><!-- .entry-summary -->
+
+		</div><!-- .entry-inner -->
+
+
+</article><!-- #post-## -->
+
+<article id="post-56" class="post-56 post type-post status-publish format-status has-post-thumbnail hentry category-words tag-chat post_format-post-format-status">
+
+
+		<div class="entry-inner">
+
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://foxland.fi/demo/some/i-am/" rel="bookmark">I am</a></h2>	<div class="entry-meta">
+		<span class="posted-on">Posted on <a href="https://foxland.fi/demo/some/i-am/" rel="bookmark"><time class="entry-date published updated" datetime="2015-04-01T16:33:38+00:00">April 1, 2015</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://foxland.fi/demo/some/author/sami/">Sami Keijonen</a></span></span>	</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+			<div class="entry-summary">
+				<p>I am what I am. I do what I do</p>
+			</div><!-- .entry-summary -->
+
+		</div><!-- .entry-inner -->
+
+
+</article><!-- #post-## -->
+</div><!-- .grid-wrapper -->
+	<nav class="navigation posts-navigation" role="navigation">
+		<h2 class="screen-reader-text">Posts navigation</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://foxland.fi/demo/some/blog/page/2/" ><svg class="icon icon-chevron-circle-left" aria-hidden="true" role="img"> <use href="assets/images/svg-icons.svg#icon-chevron-circle-left" xlink:href="assets/images/svg-icons.svg#icon-chevron-circle-left"></use> </svg> Older writings</a></div></div>
+	</nav>
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+	</div><!-- #content -->
+
+
+<div class="footer-widgets-wrapper">
+	<div class="wrapper grid-wrapper">
+
+					<aside id="footer-area-1" class="footer-area-1 widget-area" role="complementary">
+				<section id="mc4wp_form_widget-3" class="widget widget_mc4wp_form_widget"><h2 class="widget-title">Sign up for Newsletter</h2><script type="text/javascript">(function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
+</script><!-- MailChimp for WordPress v4.0.11 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-123" method="post" data-id="123" data-name="" ><div class="mc4wp-form-fields"><p>
+	<label>Email address: </label>
+	<input type="email" name="EMAIL" placeholder="Your email address" required />
+</p>
+
+<p>
+	<input type="submit" value="Sign up" />
+</p><div style="display: none;"><input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></div><input type="hidden" name="_mc4wp_timestamp" value="1485442583" /><input type="hidden" name="_mc4wp_form_id" value="123" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /></div><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin --></section><section id="search-4" class="widget widget_search"><h2 class="widget-title">Search</h2>
+<form role="search" method="get" class="search-form" action="https://foxland.fi/demo/some/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />
+	</label>
+	<button type="submit" class="search-submit"><span class="screen-reader-text">Search</span><svg class="icon icon-search" aria-hidden="true" role="img"> <use href="assets/images/svg-icons.svg#icon-search" xlink:href="assets/images/svg-icons.svg#icon-search"></use> </svg></button>
+</form>
+</section>			</aside><!-- .widget-area -->
+
+
+
+	</div><!-- .wrapper -->
+</div><!-- .footer-widgets-wrapper -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="site-info">
+			<a href="https://wordpress.org/">Proudly powered by WordPress</a>
+			<span class="sep"> | </span>
+			Theme: some by <a href="https://foxland.fi/">Sami Keijonen</a>.		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type="text/javascript">(function() {function addEventListener(element,event,handler) {
+	if(element.addEventListener) {
+		element.addEventListener(event,handler, false);
+	} else if(element.attachEvent){
+		element.attachEvent('on'+event,handler);
+	}
+}function maybePrefixUrlField() {
+	if(this.value.trim() !== '' && this.value.indexOf('http') !== 0) {
+		this.value = "http://" + this.value;
+	}
+}
+
+var urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]');
+if( urlFields && urlFields.length > 0 ) {
+	for( var j=0; j < urlFields.length; j++ ) {
+		addEventListener(urlFields[j],'blur',maybePrefixUrlField);
+	}
+}/* test if browser supports date fields */
+var testInput = document.createElement('input');
+testInput.setAttribute('type', 'date');
+if( testInput.type !== 'date') {
+
+	/* add placeholder & pattern to all date fields */
+	var dateFields = document.querySelectorAll('.mc4wp-form input[type="date"]');
+	for(var i=0; i<dateFields.length; i++) {
+		if(!dateFields[i].placeholder) {
+			dateFields[i].placeholder = 'YYYY-MM-DD';
+		}
+		if(!dateFields[i].pattern) {
+			dateFields[i].pattern = '[0-9]{4}-(0[1-9]|1[012])-(0[1-9]|1[0-9]|2[0-9]|3[01])';
+		}
+	}
+}
+
+})();</script><script type='text/javascript' src='assets/js/navigation.min.js?ver=20163012'></script>
+<script type='text/javascript' src='assets/js/svgxuse.min.js?ver=20163012'></script>
+<script type='text/javascript' src='https://foxland.fi/demo/some/wp-includes/js/wp-embed.min.js?ver=4.7.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mc4wp_forms_config = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='assets/js/forms-api.min.js?ver=4.0.11'></script>
+<!--[if lte IE 9]>
+<script type='text/javascript' src='/demo/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js?ver=4.0.11'></script>
+<![endif]-->
+
+</body>
+</html>
