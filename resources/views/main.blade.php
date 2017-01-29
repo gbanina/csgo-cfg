@@ -7,10 +7,10 @@
 
     <link rel='dns-prefetch' href='//fonts.googleapis.com' />
     <link rel='stylesheet' id='some-fonts-css'  href='https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C600%2C700%2C400italic%2C600italic%2C700italic%7COxygen%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
-    <link rel='stylesheet' id='some-style-css'  href='style.css?ver=1.1.0' type='text/css' media='all' />
-    <link rel='stylesheet' id='some-fonts-css'  href='assets\dropzone\min\basic.min.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='some-fonts-css'  href='assets\dropzone\min\dropzone.min.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='some-fonts-css'  href='assets\css\custom.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='some-style-css'  href="{{ URL::to('style.css?ver=1.1.0') }}" type='text/css' media='all' />
+    <link rel='stylesheet' id='some-fonts-css'  href="{{ URL::to('assets\dropzone\min\basic.min.css') }}" type='text/css' media='all' />
+    <link rel='stylesheet' id='some-fonts-css'  href="{{ URL::to('assets\dropzone\min\dropzone.min.css') }}" type='text/css' media='all' />
+    <link rel='stylesheet' id='some-fonts-css'  href="{{ URL::to('assets\css\custom.css') }}" type='text/css' media='all' />
     <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
 </head>
 
@@ -32,9 +32,9 @@
     </div><!-- #page -->
 
     <script type="text/javascript"></script>
-    <script src="assets/js/custom.js"></script>
-    <script type='text/javascript' src='assets/js/navigation.min.js?ver=20163012'></script>
-    <script type='text/javascript' src='assets/js/svgxuse.min.js?ver=20163012'></script>
+    <script src="{{ URL::to('assets/js/custom.js') }}"></script>
+    <script type='text/javascript' src="{{ URL::to('assets/js/navigation.min.js?ver=20163012') }}"></script>
+    <script type='text/javascript' src="{{ URL::to('assets/js/svgxuse.min.js?ver=20163012') }}"></script>
     <script type='text/javascript' src='https://foxland.fi/demo/some/wp-includes/js/wp-embed.min.js?ver=4.7.1'></script>
 </body>
 </html>

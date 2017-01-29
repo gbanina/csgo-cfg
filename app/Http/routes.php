@@ -15,6 +15,12 @@ Route::get('/', function () {
     return Redirect::to('home');
 });
 
+Route::controllers([
+    'auth' => 'Auth\AuthController',
+    'password' => 'Auth\PasswordController',
+]);
+
+
 Route::resource('home', 'HomeController');
 Route::resource('contact', 'ContactController');
 Route::resource('prettify', 'PrettifyController');
