@@ -24,5 +24,11 @@ Route::controllers([
 Route::resource('home', 'HomeController');
 Route::resource('contact', 'ContactController');
 Route::resource('prettify', 'PrettifyController');
+Route::resource('command', 'CommandController');
+
+Route::get('example', function () {
+    // Only authenticated users may enter...
+})->middleware('auth');
+
 Route::resource('profile', 'ProfileController');
 Route::resource('settings', 'SettingsController');

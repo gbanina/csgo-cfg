@@ -72,17 +72,62 @@
 <a href="https://foxland.fi/demo/some/tag/foxland/" class="tag-link-9 tag-link-position-3" title="2 topics" style="font-size: 0.875em;">Copy to Clipboard</a>
 </div>
   <pre>.post-title {
-    margin: 0 0 5px;
-    font-weight: bold;
-    font-size: 38px;
-    line-height: 1.2;
-    and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
+    <div style=" white-space: nowrap;">
+        <a href="{{ URL::to('command') }}" class="cfg-config-keyword tooltip"><span class="cfg-tooltiptext"><strong>Most Light-weight Tooltip</strong><br />
+            This is the easy-to-use Tooltip driven purely by CSS.</span>adsp_debug
+        </a> "0"
+    </div>
+    <div style=" white-space: nowrap;">
+        <a href="#" class="cfg-config-keyword tooltip"><span class="cfg-tooltiptext"><strong>Most Light-weight Tooltip</strong><br />
+            This is the easy-to-use Tooltip driven purely by CSS.</span>ai_report_task_timings_on_limit
+        </a> "0"
+    </div>
+    <div style=" white-space: nowrap;">
+        <a href="#" class="cfg-config-keyword tooltip"><span class="cfg-tooltiptext"><strong>Most Light-weight Tooltip</strong><br />
+            This is the easy-to-use Tooltip driven purely by CSS.</span>ai_think_limit_label
+        </a> "0"
+    </div>
+    <div style=" white-space: nowrap;">
+        <a href="#" class="cfg-config-keyword tooltip"><span class="cfg-tooltiptext"><strong>Most Light-weight Tooltip</strong><br />
+            This is the easy-to-use Tooltip driven purely by CSS.</span>budget_averages_window
+        </a> "30"
+    </div>
+    <div style=" white-space: nowrap;">
+        <a href="#" class="cfg-config-keyword tooltip"><span class="cfg-tooltiptext"><strong>Most Light-weight Tooltip</strong><br />
+            This is the easy-to-use Tooltip driven purely by CSS.</span>budget_background_alpha
+        </a> "128"
+    </div>
+    <div style=" white-space: nowrap;">
+        <a href="#" class="cfg-config-keyword tooltip"><span class="cfg-tooltiptext"><strong>Most Light-weight Tooltip</strong><br />
+            This is the easy-to-use Tooltip driven purely by CSS.</span>budget_bargraph_background_alpha
+        </a> "128"
+    </div>
+    <div style=" white-space: nowrap;">
+        <a href="#" class="cfg-config-keyword tooltip"><span class="cfg-tooltiptext"><strong>Most Light-weight Tooltip</strong><br />
+            This is the easy-to-use Tooltip driven purely by CSS.</span>budget_bargraph_range_ms
+        </a> "16.333333333"
+    </div>
+
 }</pre>
 </div>
 
 <button class="accordion">autoexec.cfg</button>
 <div class="panel">
-  <p>Lorem ipsum...</p>
+<br>
+<div class="widget widget_tag_cloud">
+<a href="https://foxland.fi/demo/some/tag/food/" class="tag-link-8 tag-link-position-2" title="2 topics" style="font-size: 0.875em;">Download</a>
+<a href="https://foxland.fi/demo/some/tag/foxland/" class="tag-link-9 tag-link-position-3" title="2 topics" style="font-size: 0.875em;">Copy to Clipboard</a>
+</div>
+  <pre>
+        adsp_debug "0"
+        ai_report_task_timings_on_limit "0"
+        ai_think_limit_label "0"
+        budget_averages_window "30"
+        budget_background_alpha "128"
+        budget_bargraph_background_alpha "128"
+        budget_bargraph_range_ms "16.333333333"
+  </pre>
+  </div>
 </div>
 
 <button class="accordion">mouse.cfg</button>

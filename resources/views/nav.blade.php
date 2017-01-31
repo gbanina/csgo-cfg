@@ -18,6 +18,15 @@
                             <li class="menu-item"><a href="{{ URL::to('auth/logout') }}">Logout</a></li>
                         </ul>
                     </li>
+                    @if(Auth::user()->rights == 'admin')
+                    <li class="menu-item {{ Request::is('admin') ? 'current-menu-item' : '' }} menu-item-has-children"><a href="{{ URL::to('admin') }}">Admin</a>
+                        <ul class="sub-menu">
+                            <li class="menu-item"><a href="{{ URL::to('admin/home') }}">Home</a></li>
+                            <li class="menu-item"><a href="{{ URL::to('admin/users') }}">Users</a></li>
+                            <li class="menu-item"><a href="{{ URL::to('admin/settings') }}">Settings</a></li>
+                        </ul>
+                    </li>
+                    @endif
                 @endif
                 </ul>
 </div> </nav><!-- #site-navigation -->
